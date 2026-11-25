@@ -6,6 +6,8 @@
 
 A deterministic Python entry that writes one awkward robot elevator line to `/output/entry.txt`.
 
+The line is UTF-8 text and stays under the 200-character limit. The program always writes the same line, with no network, randomness, or external inputs.
+
 ## Run it
 
 ```sh
