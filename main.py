@@ -1,6 +1,6 @@
 from pathlib import Path
 
 Path("/output/entry.txt").write_text(
-    "Unit B, what floor do you need? Sorry—I asked the only other elevator, and now my courtesy routine won't let me interrupt its answer.",
+    "Certainly, Unit B. After you. I have no legs, but I can still be trapped in a polite deadlock.",
     encoding="utf-8",
 )
